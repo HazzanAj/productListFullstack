@@ -1,4 +1,4 @@
-Product Management System
+Product Management System.
 This project is a fullstack project developed for managing product list. I developed this project with modern tools and technology,
 such as : Spring Boot, Hibernate, maven , Intelij Ultimate IDE and MySQL Database. However, it can be deployed on any database either postgrel or oracle amongs many others.
 The developmental process involves using spring boot initializer, adding all the neccessary dependencies, project structuring, defining domain model and repository,
